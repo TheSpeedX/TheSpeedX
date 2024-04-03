@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px" height="30px">, I'm TheSpeedX</h1>
-<h3 align="center">A passionate backend developer and CyberSecurity Enthusiast</h3>
+<h3 align="center">Passionate Developer & CyberSecurity Enthusiast</h3>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
